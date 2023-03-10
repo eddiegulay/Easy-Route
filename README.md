@@ -1,11 +1,7 @@
 # Easy-Route
-PHP URL Routing manager
+This is a simple PHP router class that allows you to define and handle routes for your web application. The router class can handle various HTTP methods (GET, POST, etc.) and can extract parameters from the URL path.
 
-# Router Class
-
-This is a simple PHP class that can be used to handle URL routing in a web application.
-
-## Usage
+## Router Class Usage
 
 To use the `Router` class in your project, follow these steps:
 
