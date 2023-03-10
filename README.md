@@ -129,6 +129,7 @@ $router->addRoute('GET', '/test', function() {
 // Dispatch the request to the appropriate handler
 $router->dispatch($_SERVER['REQUEST_METHOD'], $_SERVER['REQUEST_URI']);
 
+```
 
 ## Contributors
 * Edgar Gulay [https://github.com/eddygulled]
